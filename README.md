@@ -22,8 +22,9 @@ I build scalable web apps, sleek user interfaces, and powerful backend systems. 
 **Tools:**  
 `Git` · `GitHub Actions` · `Postman` · `Azure` · `Trello` · `Slack` · `Microsoft Teams`
 
-**CMS:**  
+**CMS:** 
 `Sanity`
+
 ---
 
 
